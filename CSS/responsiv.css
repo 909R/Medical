@@ -1,0 +1,263 @@
+@media only screen and (max-width:1200px){
+   
+    .topber1 .contact ul {
+       
+        flex-flow: column;
+    }
+    .topber1 .contact ul li {
+        
+        padding-bottom: 10px;
+        
+    }
+    .topber-2 .social-icone ul {
+       
+        padding-top: 30px;
+        justify-content: end;
+        
+    }
+    .parents-friendly-section {
+        grid-template-columns: 1fr 2fr;
+       
+    }
+    .parents-its-easy-to-get .paragraph h1 {
+      
+        font-size: 35px;
+       
+    }
+    .section-footer .parents-section-footer {
+        grid-template-columns: 1fr;
+        
+    }
+
+    .parents-section-footer .footer-logo-paragraph {
+        text-align: center;
+        padding-bottom: 50px;
+    }
+    .footer-contact-us {
+         padding-left: 0px;
+    }
+
+    
+
+
+
+}
+
+
+/*----------------------max-width:1100px-------------------*/
+
+@media only screen and (max-width:1100px){
+    .menubar-parents3 ul {
+        
+        grid-template-columns: 1fr;
+       
+    }
+    .menubar-parents3 ul li{
+        padding: 5px;
+    }
+    .menubar-parents3 ul li .menubar-p3-1 {
+        border-radius: 50px;
+
+    }
+
+    .menubar-parents3 ul li .menubar-p3-2 {
+        border-radius: 50px;
+    }
+    .menubar-parents3 ul li .menubar-p3-3 {
+        border-radius: 50px;
+    }
+    .parents-its-easy-to-get .parents-emoji {
+         grid-template-columns: 1fr; 
+       
+    }
+    
+    .parents-its-easy-to-get .parents-emoji .emoji-1 {
+        padding-bottom: 60px;
+    }
+    .parents-its-easy-to-get .parents-emoji .emoji-3{
+        padding-bottom: 60px;
+
+    }
+    .parents-section-footer-end .website-link { 
+
+        flex-direction: column;
+    }
+    .parents-section-footer-end .website-link p {
+       padding-bottom: 10px;
+    }
+
+}
+/*--------------------------max-width:1000px--------------*/
+
+@media only screen and (max-width:1000px){
+
+    .oral-pain .parents-oral-pain h1 {
+        font-size: 35px;
+      
+    }
+    .about-us .parents-about-us p {
+        
+        font-size: 14px;
+    }
+   
+    
+}
+
+
+/*----------------------max-width:900px-------------------*/
+
+@media only screen and (max-width:900px){
+    .parents-friendly-section .paragraph h1 {
+        
+        font-size: 35px;
+       
+    }
+    .parents-friendly-section .paragraph pre {
+        
+        font-size: 20px;
+        color: #1689b3
+       
+    } .parents-friendly-section .paragraph p {
+        
+        font-size: 16px;
+        color: black;
+       
+    }
+    .our-service .parents-our-service h1 {
+        font-size: 35px;
+        
+    }
+    .parents-our-service .parents-our-service-name {
+       
+        font-size: 14px;
+    } 
+    .parents-our-service .parents-our-service-name br {
+        display: none;}
+
+    .about-us .parents-about-us h1 {
+          
+            font-size: 35px;
+            
+        }
+        .about-us .parents-about-us p br {
+            display: none;
+        }
+
+    
+
+}
+
+
+/*----------------------max-width:840px-------------------*/
+
+
+@media only screen and (max-width:840px){
+    .menubar-parents1 {
+       
+        grid-template-columns: 1fr;
+       
+    }
+    .menubar-parents1 .menubar1 {
+        text-align: center;
+    }
+    .menubar2 ul {
+        justify-content: center;
+    }
+    .menubar-parents2 .menubar-p2 h1 {
+        font-size: 40px;
+        
+    }
+    .parents-menubar-section3 .paragraph pre {
+        font-size: 30px;
+       
+    }
+    .parents-menubar-section3 .paragraph p {
+        font-size: 15px;
+       
+    }
+    .menubar-section3 .parents-menubar-section3 .Carelogo-parents {
+       
+         grid-template-columns: 1fr; 
+        row-gap: 20px;
+    }
+    .parents-friendly-section {
+        grid-template-columns: 1fr;
+    }
+    .parents-A-Dentist-You-Can-Trust h1 {
+        
+        font-size: 35px;
+        
+    }
+    .parents-A-Dentist-You-Can-Trust p {
+        
+        font-size: 16px;}
+
+        .parents-its-easy-to-get .paragraph h1 {
+
+            font-size: 24px;
+        }
+        .parents-its-easy-to-get .paragraph p {
+
+            font-size: 16px;
+        }
+        .parents-its-easy-to-get .paragraph p br{
+            display: none;}
+
+        .parents-Our-Testimonials h1 {
+               
+                font-size: 35px;
+                
+            }
+            .parents-ceo-details .ceo-details {
+               
+                font-size: 14px;
+            }
+
+            .oral-pain .parents-oral-pain p {
+                font-size: 14px;
+
+            }
+            .oral-pain .parents-oral-pain p br{
+                display: none;
+            }
+            .oral-pain .parents-oral-pain h1 {
+                font-size: 27px;
+            }
+            .section-smaile .parents-smile p {
+               
+                font-size: 14px;
+            }
+            .section-smaile .parents-smile h1 {
+                font-size: 35px;
+               
+            }
+
+
+        
+        
+}
+
+
+
+
+/*----------------------max-width:660px-------------------*/
+
+@media only screen and (max-width:660px){
+
+    .menubar-section4 .section4p h1 {
+        
+        font-size: 35px;
+       
+    }
+    .menubar-section4 .section4p pre {
+        
+        font-size: 20px;
+        color: #1689b3
+    }
+    .menubar-section4 .section4p p {
+        
+        font-size: 16px;
+       color: black;
+    }
+
+}
